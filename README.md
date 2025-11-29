@@ -1,4 +1,4 @@
-# Hi Everyone 👋, I'm Jeshurun Peniel
+# 👋 Hi Everyone, I'm Jeshurun Peniel
 
 ---
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-##  Projects
+## 🛠️ Projects
 
 - **Hand Gesture Controller Robot**  
   Using OpenCV hand gesture is detected & Controls robot via wifi
