@@ -1,5 +1,7 @@
 # Hi Everyone 👋, I'm Jeshurun Peniel
 
+---
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -23,10 +25,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 
+##  Projects
+
+- **Hand Gesture Controller Robot**  
+  Using OpenCV hand gesture is detected & Controls robot via wifi
+
+- **IV Bag Monitoring System**  
+  Using ESP32 & Weight cell measures the fuild level in the IV Bag & send the data to the web Dasboard
+
+- **Pestiside Spraying Robot**  
+  Robot to spray the Pestiside to the crops, controlled wireless, Reduce harmfull effects to farmer
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeshurun-peniel-rj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeshurunpenielrj891@gmail.com) 
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jeshurun-Peniel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
